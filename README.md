@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Kaio Cardoso</h1>
 <h3 align="center">A Data engineer in formation working hard on becoming greater each day.</h3>
 
-- 🌱 I’m currently learning **Python for Data and SQL**
+- 🌱 I’m currently learning **Python for Data manipulation and SQL**
 
 - 📫 How to reach me **kaiocardoso3002@gmail.com**
 
-- ⚡ Fun fact **Im crazy about horror movies and games.**
+- ⚡ Fun fact **I'm crazy about horror movies and games.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
