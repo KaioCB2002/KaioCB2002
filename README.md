@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Kaio Cardoso</h1>
+<h1 align="center">Hi 👋, I'm Kaio</h1>
 <h3 align="center">A Data engineer in formation working hard on becoming greater each day.</h3>
 
 - 🌱 I’m currently learning **Python for Data manipulation and SQL**
